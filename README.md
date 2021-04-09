@@ -7,7 +7,7 @@ O algoritmo realiza o monitoramento da variação de preço das cryptomoedas Bit
 ## API
 url: https://www.coingecko.com/api/documentations/v3
 
-![API](https://user-images.githubusercontent.com/40063504/114242773-d5a26800-9961-11eb-951a-84149ccf1d48.PNG)
+![API](https://user-images.githubusercontent.com/40063504/114242963-22863e80-9962-11eb-8eef-71c8dc6570cf.PNG)
 
 ## Operação
 ### Via VSCode
