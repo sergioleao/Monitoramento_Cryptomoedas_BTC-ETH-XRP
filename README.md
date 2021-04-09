@@ -10,6 +10,7 @@ url: https://www.coingecko.com/api/documentations/v3
 ![API](https://user-images.githubusercontent.com/40063504/114242963-22863e80-9962-11eb-8eef-71c8dc6570cf.PNG)
 
 ## Operação
+
 #### Legenda:
 Vermelho - Indica que o valor da crypto caiu comparado com o último valor.
 Verde - Indica que o valor da crypto subiu comparado com o último valor.
