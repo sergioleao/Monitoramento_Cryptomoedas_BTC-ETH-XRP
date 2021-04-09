@@ -10,6 +10,11 @@ url: https://www.coingecko.com/api/documentations/v3
 ![API](https://user-images.githubusercontent.com/40063504/114242963-22863e80-9962-11eb-8eef-71c8dc6570cf.PNG)
 
 ## Operação
+#### Legenda:
+Vermelho - Indica que o valor da crypto caiu comparado com o último valor.
+Verde - Indica que o valor da crypto subiu comparado com o último valor.
+Amarelo - Indica que o valor da crypto se manteve estável comparado com o último valor.
+
 ### Via VSCode
 - Você pode executar o código diretamente em sua IDE de preferência conforme a imagem abaixo:
 
@@ -17,11 +22,6 @@ url: https://www.coingecko.com/api/documentations/v3
 
 ### Via arquivo executável
 - Ou você pode rodar o arquivo executável em sua máquina que esta localizado dentro da pasta "dist", o qual irá apresentar via terminal as variações de preço das moedas:
-
-#### Legenda:
-Vermelho - Indica que o valor da crypto caiu comparado com o último valor.
-Verde - Indica que o valor da crypto subiu comparado com o último valor.
-Amarelo - Indica que o valor da crypto se manteve estável comparado com o último valor.
 
 
 ![Application](https://user-images.githubusercontent.com/40063504/114242850-f36fcd00-9961-11eb-8033-02e0cc072a7c.PNG)
