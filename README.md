@@ -1,5 +1,5 @@
 # Monitoramento_Cryptomoedas_BTC-ETH-XRP
-O algoritmo realiza o monitoramento da variação de preço das cryptomoedas Bitcoin (BTC), Ethereum (ETH) e XRP a partir do consumo da API da CoinGecko e apresenta os valores atuais em dolar e real das cryptomoedas.
+O algoritmo realiza o monitoramento da variação de preço das cryptomoedas Bitcoin (BTC), Ethereum (ETH) e XRP a partir do consumo da API da CoinGecko e apresenta os valores atuais em dolar e real das cryptomoedas e indica através de um sistema de cores se o valor da moeda subiu, desceu ou parou no mesmo valor.
 
 ## Requisitos
 -colorama (pip install colorama)
@@ -17,6 +17,12 @@ url: https://www.coingecko.com/api/documentations/v3
 
 ### Via arquivo executável
 - Ou você pode rodar o arquivo executável em sua máquina que esta localizado dentro da pasta "dist", o qual irá apresentar via terminal as variações de preço das moedas:
+
+#### Legenda:
+Vermelho - Indica que o valor da crypto caiu comparado com o último valor.
+Verde - Indica que o valor da crypto subiu comparado com o último valor.
+Amarelo - Indica que o valor da crypto se manteve estável comparado com o último valor.
+
 
 ![Application](https://user-images.githubusercontent.com/40063504/114242850-f36fcd00-9961-11eb-8033-02e0cc072a7c.PNG)
 
