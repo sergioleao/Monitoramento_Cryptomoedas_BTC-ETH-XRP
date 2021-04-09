@@ -12,9 +12,9 @@ url: https://www.coingecko.com/api/documentations/v3
 ## Operação
 
 #### Legenda:
--Vermelho - Indica que o valor da crypto caiu comparado com o último valor.
--Verde - Indica que o valor da crypto subiu comparado com o último valor.
--Amarelo - Indica que o valor da crypto se manteve estável comparado com o último valor.
+- Vermelho - Indica que o valor da crypto caiu comparado com o último valor.
+- Verde - Indica que o valor da crypto subiu comparado com o último valor.
+- Amarelo - Indica que o valor da crypto se manteve estável comparado com o último valor.
 
 ### Via VSCode
 - Você pode executar o código diretamente em sua IDE de preferência conforme a imagem abaixo:
